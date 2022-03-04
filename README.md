@@ -29,7 +29,7 @@ By clicking the picture box, you can go back from any point to the previous page
 
 
 2. Inventory:
- In Inventory form, you have 3 buttons for ‘Entering the expiry month of the stock’ and showing inventory stacked’. 
+ In Inventory form, you have 3 buttons for ‘Entering the expiry month of the stock’ and showing inventory stacked’ 
  
  • ADD TO INVENTORY:
 Here, you can enter the expiry month of your stock and that will be added to the stack by pressing ‘Add to inventory’. A message box will appear showing message ‘Stock added to inventory’.
